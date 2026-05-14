@@ -100,3 +100,19 @@ tecnologia.
 [![Linguagens mais usadas](https://helio-github-stats.vercel.app/api/top-langs?username=pedrolemos906&layout=normal&stats_format=percentages&theme=dark&hide_border=false&border_radius=5&card_width=466&locale=pt-br&custom_title=Linguagens+mais+usadas)](https://nice-readme.vercel.app/top-langs)
 
 -----
+
+-----
+<table>
+<tr>
+<td align="center">:octocat: <a href="https://www.githubwrapped.io/pedrolemos906" target="_blank">GitHub Wrapped</a></td>
+<td align="center" colspan="2">:watch: <a href="https://wakatime.com/@pedrolemos906">WakaTime</a></td>
+</tr> 
+<tr>
+<td><img alt="GitHub Trends" src="https://api.githubtrends.io/user/svg/pedrolemos906/repos?time_range=one_year&loc_metric=changed&theme=dark"/></td>
+<td><img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=waketime&theme=dark&langs_count=12"/></td>
+<td>
+<img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=pedrolemos906&theme=dark&layout=compact"/>
+</td>
+</tr>
+</table>
+-----
