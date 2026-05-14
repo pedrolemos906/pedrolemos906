@@ -147,3 +147,7 @@ tecnologia.
 </table>
 </div>
 -----
+
+-----
+[![Profile Views](https://komarev.com/ghpvc/?username=pedrolemos906&style=for-the-badge)](https://nice-readme.vercel.app/views-badge)
+-----
