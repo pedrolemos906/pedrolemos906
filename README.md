@@ -151,3 +151,7 @@ tecnologia.
 -----
 [![Profile Views](https://komarev.com/ghpvc/?username=pedrolemos906&style=for-the-badge)](https://nice-readme.vercel.app/views-badge)
 -----
+
+-----
+[![GitHub Streak](https://github-streak-stats-ruby.vercel.app/?user=pedrolemos906&theme=default&hide_border=false&border_radius=4.5&locale=pt_BR&short_numbers=false&mode=daily&disable_animations=false&card_width=466&card_height=194&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false)](https://nice-readme.vercel.app/streak-stats)
+-----
