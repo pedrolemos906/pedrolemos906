@@ -46,3 +46,51 @@
 </div>
 
 -----
+-----
+
+<div>
+
+<img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/soulgem.svg?raw=true"/>Meus interesses pessoais:
+
+<table>
+<tr>
+ <td align="center" colspan="2"></td>
+</tr> 
+<tr>
+<td width="500px" >
+<div align="justify">
+<p> 
+Profissional com experiência consolidada na área comercial e
+relacionamento com clientes, atuando por mais de 5 anos no setor
+financeiro. Durante minha trajetória, desenvolvi habilidades como
+comunicação, organização, análise de dados e gestão de carteira de
+clientes, além de experiência com treinamentos e suporte a
+parceiros de negócio.
+Atualmente, estou em transição para a área de Tecnologia da
+Informação, com formação em programação (Python e Java), lógica
+de programação, versionamento com Git/GitHub e fundamentos de
+
+desenvolvimento de software. Também possuo certificação CPA-
+10, agregando visão de mercado financeiro.
+
+Busco uma oportunidade na área de TI onde eu possa aplicar meus
+conhecimentos técnicos, evoluir profissionalmente e contribuir com
+soluções eficientes, unindo minha experiência em negócios com
+tecnologia.
+</p>
+</div>
+</td>
+<td>
+<div>
+<img alt="SVG" src="https://joaopauloaramuni.github.io/image/dev1b.svg?raw=true" width="340px" height="650px" />
+</div>
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="2"></td>
+</tr> 
+</table>
+
+</div>
+
+-----
