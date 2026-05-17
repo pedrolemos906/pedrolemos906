@@ -68,7 +68,7 @@ comunicação, organização, análise de dados e gestão de carteira de
 clientes, além de experiência com treinamentos e suporte a
 parceiros de negócio.
 Atualmente, estou em transição para a área de Tecnologia da
-Informação, com formação em programação (Python e Java), lógica
+Informação, tenho vários cursos em programação, lógica
 de programação, versionamento com Git/GitHub e fundamentos de 
 desenvolvimento de software. Também possuo certificação CPA-10, 
 agregando visão de mercado financeiro.
