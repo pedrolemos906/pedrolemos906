@@ -1,4 +1,5 @@
 -----
+[![Profile Views](https://komarev.com/ghpvc/?username=pedrolemos906&style=for-the-badge)](https://nice-readme.vercel.app/views-badge)
 
 <div>
 <img align="center" alt="Header" src="https://github.com/pedrolemos906/pedrolemos906/blob/main/img/header.png?raw=true"/>
