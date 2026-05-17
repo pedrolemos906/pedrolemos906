@@ -69,15 +69,10 @@ clientes, além de experiência com treinamentos e suporte a
 parceiros de negócio.
 Atualmente, estou em transição para a área de Tecnologia da
 Informação, com formação em programação (Python e Java), lógica
-de programação, versionamento com Git/GitHub e fundamentos de
+de programação, versionamento com Git/GitHub e fundamentos de 
+desenvolvimento de software. Também possuo certificação CPA-10, 
+agregando visão de mercado financeiro.
 
-desenvolvimento de software. Também possuo certificação CPA-
-10, agregando visão de mercado financeiro.
-
-Busco uma oportunidade na área de TI onde eu possa aplicar meus
-conhecimentos técnicos, evoluir profissionalmente e contribuir com
-soluções eficientes, unindo minha experiência em negócios com
-tecnologia.
 </p>
 </div>
 </td>
